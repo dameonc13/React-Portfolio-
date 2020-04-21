@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Route path="/" component={Home} />
+        <Route path="/react-portfolio" component={Home} />
       </div>
     </Router>
   );
