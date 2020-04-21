@@ -18,7 +18,6 @@ function Contact() {
           action="https://formspree.io/xyyjpyzv"
         >
           <div className="form-group">
-            <label for="exampleInputEmail1">Email address</label>
             <input
               type="email"
               className="form-control"
@@ -36,11 +35,11 @@ function Contact() {
               id="message"
               name="message"
               rows="2"
+              placeholder="Your Message"
               className="form-control md-textarea"
             ></textarea>
-            <label for="message">Your message</label>
           </div>
-
+          <br />
           <button type="submit" className="btn " type="submit">
             <i className="fa fa-paper-plane"></i> SEND MESSAGE
           </button>
