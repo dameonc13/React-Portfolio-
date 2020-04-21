@@ -1,0 +1,39 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+}
+
+header {
+  padding: 0% 0% 10% 0%;
+  background-position: center;
+  background-image: url(../images/background.PNG);
+  background-size: cover;
+}
+
+.jumbotron {
+  background: none;
+
+  text-align: center;
+  color: white;
+}
+
+.nav.navbar-nav-limk a {
+  color: white;
+}
+
+#bio-image {
+  width: 300px;
+  height: 300px;
+
+  border-radius: 50%;
+  filter: grayscale(75%);
+}
+
+#bio-image:hover {
+  filter: grayscale(0%);
+  cursor: pointer;
+  margin-top: 5px;
+}

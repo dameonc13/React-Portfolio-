@@ -1,0 +1,23 @@
+.footer {
+  font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.footer {
+  font-size: 0.7em;
+  text-align: center;
+  background-color: #666666;
+  clear: both;
+  height: 10%;
+  width: 100%;
+  color: #a59c9c;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.fa-github {
+  font-size: 48px;
+  color: red;
+}
