@@ -8,7 +8,10 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Route exact path="/react-portfolio" component={Home} />
+        <Route>
+          {" "}
+          exact path={["/react-portfolio", "/"]} <Home />{" "}
+        </Route>
       </div>
     </Router>
   );
