@@ -10,7 +10,7 @@
   letter-spacing: 30px;
 }
 
-@media screen and (min-width: 980px) {
+@media screen and (min-width: 1200px) {
   .devicon {
     font-size: 10rem;
     letter-spacing: 80px;
