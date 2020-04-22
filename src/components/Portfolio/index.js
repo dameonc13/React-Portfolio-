@@ -1,6 +1,11 @@
 import React from "react";
 import "./style.css";
-import Images from "../images/Images";
+import almanac from "../images/Almanac.PNG";
+import basketball from "../images/basketball.PNG";
+import burgers from "../images/burgers.PNG";
+import noteTaker from "../images/note-taker.PNG";
+import weather from "../images/Weather-Dash.PNG";
+import Emp_Track from "../images/Emp_Track.PNG";
 
 function Portfolio() {
   return (
@@ -17,7 +22,7 @@ function Portfolio() {
             <div className="card">
               <img
                 className="card-img-top img-box"
-                src="assets/images/burgers.PNG"
+                src={burgers}
                 alt="Burgers"
               />
               <div className="card-body">
@@ -47,7 +52,7 @@ function Portfolio() {
             <div className="card">
               <img
                 className="card-img-top img-box"
-                src="assets/images/Weather-Dash.PNG"
+                src={weather}
                 alt="Weather-Dashboard"
               />
               <div className="card-body">
@@ -76,7 +81,7 @@ function Portfolio() {
             <div className="card">
               <img
                 className="card-img-top img-box"
-                src="assets/images/Almanac.PNG"
+                src={almanac}
                 alt="Almanac"
               />
               <div className="card-body">
@@ -109,7 +114,7 @@ function Portfolio() {
             <div className="card">
               <img
                 className="card-img-top img-box"
-                src="assets/images/note-taker.PNG"
+                src={noteTaker}
                 alt="Note-Taker"
               />
               <div className="card-body">
@@ -141,7 +146,7 @@ function Portfolio() {
             <div className="card">
               <img
                 className="card-img-top img-box"
-                src="assets/images/basketball.PNG"
+                src={basketball}
                 alt="Basketball-Game"
               />
               <div className="card-body">
@@ -174,8 +179,8 @@ function Portfolio() {
             <div className="card">
               <img
                 className="card-img-top img-box"
-                src="assets/images/Emp_Track.PNG"
-                alt="Day-Planner"
+                src={Emp_Track}
+                alt="Emp_Track"
               />
               <div className="card-body">
                 <h5 className="card-title">Employee-Tracker</h5>

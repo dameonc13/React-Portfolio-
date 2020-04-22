@@ -1,6 +1,5 @@
 import React from "react";
 import "./style.css";
-import Images from "../images/Images";
 
 function About() {
   return (

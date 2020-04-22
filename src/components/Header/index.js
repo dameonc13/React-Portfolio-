@@ -1,8 +1,6 @@
 import React from "react";
 import "./style.css";
-import Images from "../images/Images";
-
-console.log(Images);
+import pro from "../images/Profile.jpg";
 
 function Header() {
   return (
@@ -31,7 +29,7 @@ function Header() {
         </div>
 
         <div className="jumbotron">
-          <img id="bio-image" src={Images.profilePic} alt="Dameon" />
+          <img id="bio-image" src={pro} alt="Dameon" />
           <h1 className="display-4">Dameon Charley!</h1>
           <p className="lead">
             This is a simple hero unit, a simple jumbotron-style component for

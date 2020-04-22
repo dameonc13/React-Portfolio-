@@ -5,12 +5,13 @@ import Portfolio from "../components/Portfolio";
 import Skills from "../components/Skills";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
+//import App from "../components/images/Images";
 
 class Home extends Component {
   render() {
     return (
       <div>
-        <Header />
+        <Header /* pics={App} */ />
         <About />
         <Portfolio />
         <Skills />

@@ -1,6 +1,5 @@
 import React from "react";
 import "./footer.css";
-import Images from "../images/Images";
 
 function Footer() {
   return (

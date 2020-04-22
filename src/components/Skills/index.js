@@ -1,6 +1,5 @@
 import React from "react";
 import "./skills.css";
-import Images from "../images/Images";
 
 // I WANT TO MAP THESE LOGOS CREATE ANOTTHER FILE OR FOLDER FOR THE LOGOS AND MAP THEM HERE
 function Skills() {
