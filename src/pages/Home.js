@@ -4,7 +4,7 @@ import About from "../components/About";
 import Portfolio from "../components/Portfolio";
 import Skills from "../components/Skills";
 import Contact from "../components/Contact";
-import Footer from "../components/Footer";
+
 //import App from "../components/images/Images";
 
 class Home extends Component {
@@ -16,7 +16,6 @@ class Home extends Component {
         <Portfolio />
         <Skills />
         <Contact />
-        <Footer />
       </div>
     );
   }

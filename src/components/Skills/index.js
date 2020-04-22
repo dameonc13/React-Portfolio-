@@ -12,7 +12,7 @@ function Skills() {
       <i className="devicon devicon-mongodb-plain-wordmark colored"></i>
       <i className="devicon devicon-javascript-plain colored"></i>
       <i className="devicon devicon-jquery-plain-wordmark colored"></i>
-      <i className="devicon devicon-sequelize-plain-wordmark colored"></i>
+      <i className="devicon devicon-react-original colored"></i>
     </div>
   );
 }

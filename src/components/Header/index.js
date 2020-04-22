@@ -32,13 +32,13 @@ function Header() {
           <img id="bio-image" src={pro} alt="Dameon" />
           <h1 className="display-4">Dameon Charley!</h1>
           <p className="lead">
-            This is a simple hero unit, a simple jumbotron-style component for
-            calling extra attention to featured content or information.
+            Hi Everyone my name is Dameon Charley a Full Stack Web Devolper. You
+            can find some of my recent projects below
           </p>
           <hr className="my-4" />
           <p>
-            It uses utility classes for typography and spacing to space content
-            out within the larger container.
+            {" "}
+            It's not what happens to you, but how you React to it that matters!
           </p>
         </div>
       </header>

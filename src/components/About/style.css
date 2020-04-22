@@ -13,9 +13,25 @@
 #about h2 {
   font: 22px/30px "opensans-bold", sans-serif;
   color: #fff;
-  margin-bottom: 12px;
 }
 #about p {
   line-height: 30px;
   color: #7a7a7a;
+}
+
+.about {
+  text-align: center;
+
+  font-size: larger;
+}
+
+@media screen and (min-width: 980px) {
+  #about h2 {
+    margin-bottom: 12px;
+  }
+
+  .about {
+    margin: 0px 0px 0px 200px;
+    width: 80%;
+  }
 }
