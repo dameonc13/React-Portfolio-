@@ -28,8 +28,9 @@ function About() {
               and I have loved it ever since. I first added a computer science
               minor during my undergrad but wanted to purse a career and gain a
               better understanding of programming. This was the reason I choose
-              to enroll in BootCamp at University oF Connecticut for Full Stack
-              Web Development .
+              to enroll in at University oF Connecticut for Full Stack Web
+              Development program. This portfolio showcases my projects and by
+              continuos learning and improvements in Full Stack Development
             </p>
             <p></p>
             <p>

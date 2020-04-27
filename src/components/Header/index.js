@@ -5,7 +5,7 @@ import pro from "../images/Profile.jpg";
 function Header() {
   return (
     <div>
-      <header>
+      <header className="bg-img">
         <div className="row ">
           <div className="col-md-12">
             <ul className="nav justify-content-center nav">
