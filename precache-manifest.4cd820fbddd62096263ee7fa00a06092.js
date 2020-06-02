@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7761b7b57ed0b07555fe839d98a9343d",
+    "revision": "6f528aed738e0c5863f1da3a3588b04e",
     "url": "/React-Portfolio-/index.html"
   },
   {
-    "revision": "e2772858ec928d3be5e8",
-    "url": "/React-Portfolio-/static/css/main.d0cad34f.chunk.css"
+    "revision": "31d2074259961093e487",
+    "url": "/React-Portfolio-/static/css/main.5cf4d34b.chunk.css"
   },
   {
     "revision": "d795baa6263db0121cd4",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio-/static/js/2.2e2cf000.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e2772858ec928d3be5e8",
-    "url": "/React-Portfolio-/static/js/main.07aab18a.chunk.js"
+    "revision": "31d2074259961093e487",
+    "url": "/React-Portfolio-/static/js/main.2481bf92.chunk.js"
   },
   {
     "revision": "f06108d0a295dc06dc7b",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio-/static/media/basketball.f768c5b6.PNG"
   },
   {
-    "revision": "5e11a133edc5eb9fbe86f17c713bd6e6",
-    "url": "/React-Portfolio-/static/media/bg.5e11a133.jpg"
+    "revision": "8257f56de68186ded2d586150a5cf05a",
+    "url": "/React-Portfolio-/static/media/blur.8257f56d.jpg"
   },
   {
     "revision": "1b7fecfde9ebb403edb670df9bb5c22f",
