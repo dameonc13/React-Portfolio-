@@ -8,6 +8,7 @@ function Contact() {
         <div className="row">
           <div className="col-md-12 ">
             <h2>Contact</h2>
+            <h3>Email : dameoncharley13@hotmail.com</h3>
           </div>
         </div>
         <hr />
