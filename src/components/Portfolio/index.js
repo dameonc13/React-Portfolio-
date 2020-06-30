@@ -32,17 +32,26 @@ function Portfolio() {
                   Crud actions{" "}
                 </p>
                 <p>
-                  <i
-                    className="fa fa-home"
-                    onclick="window.location.href='https://devour-burgers-list.herokuapp.com/'"
+                  <a
+                    href="https://devour-burgers-list.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="__blank"
                   >
-                    {" "}
-                  </i>
+                    <i className="fa fa-home" onclick="window.location.href=''">
+                      {" "}
+                    </i>
+                  </a>
 
-                  <i
-                    className="fa fa-github git"
-                    onclick="window.location.href='https://github.com/dameonc13/Burger-List'"
-                  ></i>
+                  <a
+                    href="https://github.com/dameonc13/Burger-List"
+                    rel="noopener noreferrer"
+                    target="__blank"
+                  >
+                    <i
+                      className="fa fa-github git"
+                      onclick="window.location.href=''"
+                    ></i>
+                  </a>
                 </p>
               </div>
             </div>
@@ -63,15 +72,27 @@ function Portfolio() {
                   cities in America fetching info from OpenWeatherMap API{" "}
                 </p>
                 <p>
-                  <i
-                    className="fa fa-home"
-                    onclick="window.location.href='https://dameonc13.github.io/Weather-Dashboard/'"
-                  ></i>
+                  <a
+                    href="https://dameonc13.github.io/Weather-Dashboard/"
+                    rel="noopener noreferrer"
+                    target="__blank"
+                  >
+                    <i
+                      className="fa fa-home"
+                      onclick="window.location.href=''"
+                    ></i>
+                  </a>
 
-                  <i
-                    className="fa fa-github git"
-                    onclick="window.location.href='https://github.com/dameonc13/Weather-Dashboard'"
-                  ></i>
+                  <a
+                    href="https://github.com/dameonc13/Weather-Dashboard"
+                    rel="noopener noreferrer"
+                    target="__blank"
+                  >
+                    <i
+                      className="fa fa-github git"
+                      onclick="window.location.href=''"
+                    ></i>
+                  </a>
                 </p>
               </div>
             </div>
@@ -92,17 +113,27 @@ function Portfolio() {
                   word of the day and history of the day.
                 </p>
                 <p>
-                  <i
-                    className="fa fa-home"
-                    onclick="window.location.href='https://dameonc13.github.io/Almanac/'"
+                  <a
+                    href="https://dameonc13.github.io/Almanac/"
+                    rel="noopener noreferrer"
+                    target="__blank"
                   >
-                    {" "}
-                  </i>
+                    <i
+                      className="fa fa-home"
+                      onclick="window.location.href=''"
+                    ></i>
+                  </a>
 
-                  <i
-                    className="fa fa-github git"
-                    onclick="window.location.href='https://github.com/dameonc13/Almanac'"
-                  ></i>
+                  <a
+                    href="https://github.com/dameonc13/Almanac"
+                    rel="noopener noreferrer"
+                    target="__blank"
+                  >
+                    <i
+                      className="fa fa-github git"
+                      onclick="window.location.href=''"
+                    ></i>
+                  </a>
                 </p>
               </div>
             </div>
@@ -126,17 +157,27 @@ function Portfolio() {
                   to take some notes and save for later use.
                 </p>
                 <p>
-                  <i
-                    className="fa fa-home"
-                    onclick="window.location.href='https://dc-note-taker.herokuapp.com/notes'"
+                  <a
+                    href="https://dc-note-taker.herokuapp.com/notes"
+                    rel="noopener noreferrer"
+                    target="__blank"
                   >
-                    {" "}
-                  </i>
+                    <i
+                      className="fa fa-home"
+                      onclick="window.location.href=''"
+                    ></i>
+                  </a>
 
-                  <i
-                    className="fa fa-github git"
-                    onclick="window.location.href='https://github.com/dameonc13/Note-Taker'"
-                  ></i>
+                  <a
+                    href="https://github.com/dameonc13/Note-Taker"
+                    rel="noopener noreferrer"
+                    target="__blank"
+                  >
+                    <i
+                      className="fa fa-github git"
+                      onclick="window.location.href='"
+                    ></i>
+                  </a>
                 </p>
               </div>
             </div>
@@ -159,17 +200,26 @@ function Portfolio() {
                   on.
                 </p>
                 <p>
-                  <i
-                    className="fa fa-home"
-                    onclick="window.location.href='https://basketball-game.herokuapp.com/'"
+                  <a
+                    href="https://basketball-game.herokuapp.com/"
+                    rel="noopener noreferrer"
+                    target="__blank"
                   >
-                    {" "}
-                  </i>
+                    <i className="fa fa-home" onclick="window.location.href=''">
+                      {" "}
+                    </i>
+                  </a>
 
-                  <i
-                    className="fa fa-github git"
-                    onclick="window.location.href='https://github.com/dameonc13/project2'"
-                  ></i>
+                  <a
+                    href="https://github.com/dameonc13/project2"
+                    rel="noopener noreferrer"
+                    target="__blank"
+                  >
+                    <i
+                      className="fa fa-github git"
+                      onclick="window.location.href=''"
+                    ></i>
+                  </a>
                 </p>
               </div>
             </div>
@@ -190,14 +240,25 @@ function Portfolio() {
                   utilize CRUD actions to make changes to the Database{" "}
                 </p>
                 <p>
-                  <i className="fa fa-home" onclick="window.location.href='#'">
-                    {" "}
-                  </i>
+                  <a href="#" rel="noopener noreferrer" target="__blank">
+                    <i
+                      className="fa fa-home"
+                      onclick="window.location.href='#'"
+                    >
+                      {" "}
+                    </i>
+                  </a>
 
-                  <i
-                    className="fa fa-github git"
-                    onclick="window.location.href='https://github.com/dameonc13/Employee-Tracker'"
-                  ></i>
+                  <a
+                    href="https://github.com/dameonc13/Employee-Tracker"
+                    rel="noopener noreferrer"
+                    target="__blank"
+                  >
+                    <i
+                      className="fa fa-github git"
+                      onclick="window.location.href=''"
+                    ></i>
+                  </a>
                 </p>
               </div>
             </div>
